@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np
 
 
-env = gym.make('Acrobot-v1')
+env = gym.make('MountainCar-v0')
 
 # Fetching action space and observation space size
 action_space_size = env.action_space.n
