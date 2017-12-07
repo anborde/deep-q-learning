@@ -1,4 +1,4 @@
-# Random Deep Q-Learning
+# Deep Q-Learning
 Based on Deepmind's paper titled 'Human-level control through deep reinforcement learning' the model in the repo solves the Mountain-Car problem by applying Deep Q Learning.
 ## Contents
 main.py
