@@ -60,7 +60,7 @@ train_step = tf.train.GradientDescentOptimizer(learning_rate=0.0001, name='Gradi
 e = 3000                                                                       # Number of Episodes
 s = 200                                                                      # Number of steps
 gamma = 0.1                                                                # Reward Discount
-epsilon = 0.5
+epsilon = 0.05
 loss_func = []
 reward_func = []
 print('Learning Begins')
