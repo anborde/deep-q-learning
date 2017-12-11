@@ -8,7 +8,7 @@ test.py
 - contains the code to test the trained model
 
 ## Usage
-- Alter the hyperparameters gamma (discount factor) and gamma_r (reward penalty) in main.py to generate a model that would solve the environment slected from [Open AI Gym Environments](https://github.com/openai/gym).
+- Alter the hyperparameters gamma (discount factor) in main.py to generate a model that would solve the environment slected from [Open AI Gym Environments](https://github.com/openai/gym).
 - To test your model run it using test.py. **Note: Change the environment in test.py if you have changed it in main.py. By default Mountian Car environment is selected.**
 
 ## License
